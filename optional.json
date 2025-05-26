@@ -1,3 +1,7 @@
-{
-  "bamfile": "https://raw.githubusercontent.com/denis-yuen/workshop-2025-06-demo/refs/heads/main/wdl-101-bam.wdl"
-}
+       {
+          "test.files": [
+            "https://goodurl.com",
+            "https://anothergoodurl.com"
+          ],
+          "test.file": "notaurl.file"
+        }       
