@@ -1,3 +1,3 @@
 {
-  "foo": "https://qa.dockstore.org/my-workflows/github.com/denis-yuen/workshop-2025-06-demo"
+  "foo": "https://raw.githubusercontent.com/denis-yuen/workshop-2025-06-demo/refs/heads/main/wdl-101-bam.wdl"
 }
